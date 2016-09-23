@@ -2,7 +2,8 @@ describe('createReservation(passenger,flight)', function () {
 
     var testPassenger = null;
     var testFlight = null;
-    var reservation = null;
+    var testReservation = null;
+    var testSaver = null;
 
     beforeEach(function () {
         testPassenger = {
@@ -15,21 +16,27 @@ describe('createReservation(passenger,flight)', function () {
             carrier: 'AceAir',
             destination: 'Miramar,ca'
         };
+        testSaver = new ReservationSaver();
+        spyOn(testSaver,'saveReservation');
 
-        reservation = createReservation(testPassenger, testFlight);
+        testReservation = createReservation(testPassenger, testFlight,testSaver);
 
     });
 
 
     it('assigns the provided passenger to the passengerInfo property',
         function () {
-            expect(reservation.passengerInfomation).toBe(testPassenger);
+            expect(testReservation.passengerInfomation).toBe(testPassenger);
 
         });
 
     it('assigns the provided flight to the flightInfo property',
         function () {
-            expect(reservation.flightInfomation).toBe(testFlight);
+            expect(testReservation.flightInfomation).toBe(testFlight);
 
         });
-})
+    it('saves the reservation',function () {
+        expect(testSaver.saveReservation).toHaveBeenCalled();
+
+    });
+});
