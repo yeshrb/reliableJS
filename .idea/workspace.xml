@@ -2,474 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dc1e634-bb93-438d-91ec-af96b6340160" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 01 code/pathFromArrays.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 01 code/pathFromFunction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 01 code/pathFromObjects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 01 code/pathFromTransformedObjects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 01 code/rj3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 01 code/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_00.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_04_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_05.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_05_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_06.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_06_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/Aop_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/index_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/index_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/index_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/index_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/index_05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/AOP/index_06.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/Attendee_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/Attendee_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/DiContainer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/DiContainer_00.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/DiContainer_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/DiContainer_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/DiContainer_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/DiContainer_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/DiContainer_03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/DiContainer_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/DiContainer_03b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/DiContainer_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/index _01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/index_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/DI/index_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Linting/Linting_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Linting/Linting_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Linting/Linting_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Linting/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Linting/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/TestFrameworks_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/TestFrameworks_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/TestFrameworks_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/TestFrameworks_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/TestFrameworks_03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/TestFrameworks_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/TestFrameworks_04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/TestFrameworks_04_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/index_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/index_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/index_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 02 code/Test Frameworks/index_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/Classical/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/Classical/classical_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/Classical/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/Functional/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/Functional/functional_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/Functional/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/New Pattern/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/New Pattern/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/New Pattern/newpattern_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/New Pattern/newpattern_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/New Pattern/newpattern_03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/New Pattern/newpattern_04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/New Pattern/newpattern_05.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 03 code/New Pattern/newpattern_06.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 05 code/Callbacks/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 05 code/Callbacks/attendee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 05 code/Callbacks/attendeeCollection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 05 code/Callbacks/attendeeCollection_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 05 code/Callbacks/checkInRecorder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 05 code/Callbacks/checkInService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 05 code/Callbacks/checkInService_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 05 code/Callbacks/checkedInAttendeeCounter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 05 code/Callbacks/checkedInAttendeeCounter_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 05 code/Callbacks/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/attendee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/attendee_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/checkInRecorder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/checkInRecorder_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/checkInRecorder_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/checkInRecorder_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/checkInRecorder_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/checkInService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/checkInService_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/checkInService_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/checkInService_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/checkInService_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 06 code/Promises/mock-ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 07 code/PFA/Aop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 07 code/PFA/ThirdPartyRestaurantApi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 07 code/PFA/ThirdPartyRestaurantApiAspects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 07 code/PFA/ThirdPartyRestaurantApiAspects_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 07 code/PFA/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 08 code/Memoization/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 08 code/Memoization/ThirdPartyRestaurantApi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 08 code/Memoization/ThirdPartyRestaurantApiAspects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 08 code/Memoization/ThirdPartyRestaurantApiAspects_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 08 code/Memoization/aop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 08 code/Memoization/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 08 code/Memoization/memoizedRestaurantApi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 08 code/Memoization/memoizedRestaurantApi_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 08 code/Memoization/returnValueCache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 08 code/Memoization/returnValueCache_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/aop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/applyAspect_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/applyAspect_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/index_objectsWithinRadiusCache.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/index_returnValueCache_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/index_returnValueCache_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/restaurantsWithinRadiusCache_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/restaurantsWithinRadiusCache_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/returnValueCache_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/returnValueCache_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/returnValueCache_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/returnValueCache_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 09 code/Singleton/simpleCache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 10 code/Presentation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 10 code/Presentation_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 10 code/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 10 code/VendorPresentation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 10 code/VendorPresentation_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 10 code/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 10 code/presentationFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 10 code/presentationFactory_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/WidgetSandbox_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/WidgetSandbox_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/WidgetSandbox_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/WidgetSandbox_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/WidgetSandbox_03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/WidgetSandbox_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/WidgetSandbox_04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/WidgetSandbox_04_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/attendee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/attendeeNames.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/attendeeNamesWidget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/attendeeNamesWidget_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/attendeeNames_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/attendeeWebApi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/index_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/index_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/index_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 11 code/Sandbox/index_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendeeWebApiDecorator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendeeWebApiDecorator_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendeeWebApiDecorator_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendeeWebApiDecorator_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendeeWebApiDecorator_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendeeWebApiDecorator_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendeeWebApiDecorator_04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendeeWebApiDecorator_04_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendeeWebApiDecorator_05.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendeeWebApiDecorator_05_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/attendeeWebApiDecorator_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/fakeAttendeeWebApi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/fakeAttendeeWebApi_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/index_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/index_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/index_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/index_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 12 code/Decorator/index_05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/httpService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/index_redicabTransportCompany.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/index_transportScheduler_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/index_transportScheduler_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/redicabTransportCompany.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/redicabTransportCompany_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/transportCompanyAuditService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/transportCompanyFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/transportScheduler_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/transportScheduler_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/transportScheduler_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 13 code/Strategy/transportScheduler_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy_01a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy_01b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy_03a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy_03b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy_04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy_04_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileProxy_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/attendeeProfileService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/index_01a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/index_01b.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/index_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/index_03a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/index_03b.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 14 code/Proxy/index_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/index_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/index_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/index_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/index_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/presenterEvaluation_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/presenterEvaluation_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/presenterEvaluation_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/presenterEvaluation_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/presenterEvaluation_03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/presenterEvaluation_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/presenterEvaluation_04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 15 code/Chaining/presenterEvaluation_04_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/Aop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/attendeeContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/attendee_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/contractRegistry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/contractRegistry_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/contractRegistry_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/contractRegistry_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/contractRegistry_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/contractRegistry_03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/contractRegistry_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/contractRegistry_04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/contractRegistry_04_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/contractRegistry_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/index_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/index_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/index_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/index_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 16 code/Interfaces/index_05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/Aop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ConferenceContractRegistry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_07.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_07_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_08.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_08_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_09.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_09_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_10_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_10a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_10b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_11.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_11_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_12.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_12_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_13.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_13_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_14.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_14_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ContractRegistry_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/StandardContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/attendee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/attendeeContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/index_07.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/index_08.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/index_09.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/index_10a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/index_10b.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/index_11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/index_12.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/index_13.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 17 code/Parameters/index_14.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/attendeeCollection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/callApply_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/defaultBinding_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/defaultBinding_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/defaultBinding_03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/forEach_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/forEach_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/forEach_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/forEach_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/forEach_03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/forEach_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/forEach_04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/forEach_04_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/implicitBinding_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/implicitBinding_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index _forEach_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index _forEach_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index _forEach_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index _forEach_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index _outgoingLinkClickHandler_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index _outgoingLinkClickHandler_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index_callApply_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index_defaultBinding_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index_defaultBinding_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index_defaultBinding_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index_implicitBinding_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index_implicitBinding_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index_newBinding_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/index_newBinding_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/newBinding_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/newBinding_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/outgoingLinkClickHandler_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/outgoingLinkClickHandler_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/outgoingLinkClickHandler_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/outgoingLinkClickHandler_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 18 code/CallApplyBind/outgoingLinkClickRecorder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/Aop/Aop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/ContractRegistry/ContractRegistry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/ContractRegistry/ContractRegistry_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/ContractRegistry/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/ForEach/forEach_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/ForEach/forEach_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/ForEach/forEach_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/ForEach/index_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/ForEach/index_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/OrderedObject/OrderedObject_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/OrderedObject/OrderedObject_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/OrderedObject/OrderedObject_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/OrderedObject/OrderedObject_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/OrderedObject/OrderedObject_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/OrderedObject/OrderedObject_04_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/OrderedObject/index_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/OrderedObject/index_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/OrderedObject/index_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/OrderedObject/index_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/Sequence/aspectSequenceProblem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/Sequence/aspectSequenceProblem_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/Sequence/borrowingWithApply.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/Sequence/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/Utilities/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/Utilities/utilities.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 19 code/Utilities/utilities_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/addId_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/addId_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/addId_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/addId_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/attendee_addId.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/attendee_idMixin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/attendee_original.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/attendee_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/extend_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/extend_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/extend_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/extend_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/extend_03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/extend_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/extend_04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/extend_04_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/extend_05.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/extend_05_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/idMixin_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/idMixin_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/idMixin_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/idMixin_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index _attendee_addId.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index _attendee_idMixin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index _extend_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index _extend_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index _extend_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index _extend_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index _extend_05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index _idMixin_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index _idMixin_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index_addId_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index_addId_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 20 code/Mixin/index_attendee_original.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/Aop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/ContractRegistry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/GameContractRegistry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/StandardContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/bot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/botContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/bot_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/gameLogic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/gameLogicContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/gameLogic_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/gameNode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/gameNodeContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/gameNode_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/index_game.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/index_tests.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/mediator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/mediatorContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/mediator_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/normalPoint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/normalPointContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/normalPoint_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/pathIndex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/player.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/playerContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/player_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Mediator/svgDisplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/Aop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/ConferenceContractRegistry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/ContractRegistry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/StandardContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/attendee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/index_initial.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/observerContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/recentRegistrationsService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/recentRegistrationsServiceContracts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/recentRegistrationsService_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/recentRegistrationsService_initialTests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/totalAttendeeCount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 21 code/Observer/totalAttendeeCount_initialTests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/clickCountDisplay_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/clickCountDisplay_01_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/clickCountDisplay_02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/clickCountDisplay_02_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/clickCountDisplay_03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/clickCountDisplay_03_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/index_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/index_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/index_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/inline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/DOMAccess/jasmine-jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/Profiler/ReadMe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/Profiler/attendee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/Profiler/attendeePage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/Profiler/attendeePage_Improved.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/Profiler/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/Profiler/index_Improved.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 22 code/Profiler/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example1/DOMUpdater.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example2/DOMUpdater_1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example2/DOMUpdater_2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example3/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example3/DOMUpdater.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example4/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example4/DOMUpdater.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example4/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example4/rules/id-suffix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example5/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example5/DOMUpdater.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example5/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/ESLint/Example5/rules/id-suffix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/FamilySecret/mediator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/Imprinting/gameLogic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/Imprinting/gameLogic_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/Imprinting/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/MissionImpossible/gameLogic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/MissionImpossible/gameLogic_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/MissionImpossible/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/MissionImpossible/readOnceKey.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Ch 23 code/MissionImpossible/readOnceKey_tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sampleCodeWithBook/Reliable JavaScript Code Read Me.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Attendee01.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DiContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reservation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/DiContainerSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/reservationSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/support/jasmine.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AOP/Aop.js" afterPath="$PROJECT_DIR$/src/AOP/Aop.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AOP/Aop.test.js" afterPath="$PROJECT_DIR$/src/AOP/Aop.test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AOP/index_test.html" afterPath="$PROJECT_DIR$/src/AOP/index_test.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DI/DiContainer.js" afterPath="$PROJECT_DIR$/src/DI/DiContainer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DI/DiContainer.tests.js" afterPath="$PROJECT_DIR$/src/DI/DiContainer.tests.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DI/index _01.html" afterPath="$PROJECT_DIR$/src/DI/index _01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="reliableJS.iws" />
@@ -493,20 +40,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DiContainer.tests.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DI/DiContainer.tests.js">
+      <file leaf-file-name="DiContainer.tests.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DI/DiContainer.tests.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="324">
               <caret line="66" column="43" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiContainer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DI/DiContainer.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
+            <state relative-caret-position="120">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Attendee01.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Attendee01.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-77">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.babelrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiContainer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DI/DiContainer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
               <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding />
             </state>
@@ -551,6 +128,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1366" />
@@ -582,6 +162,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -590,9 +171,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reliableJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reliableJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -604,12 +194,15 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/TestFrameworks" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/TestFrameworks" />
     </key>
   </component>
   <component name="RunManager">
@@ -680,32 +273,33 @@
       <workItem from="1474579832433" duration="2884000" />
       <workItem from="1474596659438" duration="617000" />
       <workItem from="1474637212660" duration="8482000" />
+      <workItem from="1482547794924" duration="558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11983000" />
+    <option name="totallyTimeSpent" value="12541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="693" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24907063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24907063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294509" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -730,15 +324,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TestFrameworks/TestFrameworks_01.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestFrameworks/TestFrameworks_01_test.js">
+    <entry file="file://$PROJECT_DIR$/src/DI/DiContainer.tests.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -746,11 +332,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DI/DiContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestFrameworks/TestFrameworks_01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestFrameworks/TestFrameworks_01_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestFrameworks/index_01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,7 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,7 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -774,18 +379,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/Ch 02 code/DI/index.html" />
     <entry file="file://$PROJECT_DIR$/Ch 02 code/Test Frameworks/ReadMe.txt" />
     <entry file="file://$PROJECT_DIR$/TestFrameworks/TestFrameworks_01.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="21" column="79" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,7 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="54" column="181" selection-start-line="54" selection-start-column="181" selection-end-line="54" selection-end-column="181" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -817,9 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36015">
           <caret line="2401" column="2" selection-start-line="2401" selection-start-column="2" selection-end-line="2401" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -827,9 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
           <caret line="358" column="2" selection-start-line="358" selection-start-column="2" selection-end-line="358" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,30 +430,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
           <caret line="180" column="5" selection-start-line="180" selection-start-column="5" selection-end-line="180" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DI/index _01.html">
+    <entry file="file://$PROJECT_DIR$/src/DI/index _01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DI/DiContainer.js">
+    <entry file="file://$PROJECT_DIR$/src/DI/DiContainer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
+        <state relative-caret-position="180">
           <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DI/DiContainer.tests.js">
+    <entry file="file://$PROJECT_DIR$/src/DI/DiContainer.tests.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="324">
           <caret line="66" column="43" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Attendee01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
