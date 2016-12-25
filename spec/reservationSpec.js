@@ -2,7 +2,7 @@
  * Created by lijunjie on 16/12/23.
  */
 "use strict";
-import {createReservation, ReservationSaver} from "../reservation";
+import {createReservation, ReservationSaver} from "../src/reservation";
 describe('createReservation(passenger,flight)', function () {
 
     var testPassenger = null;
